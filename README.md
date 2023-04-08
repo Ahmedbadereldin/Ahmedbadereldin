@@ -10,11 +10,12 @@
 -->
 
 - 👋 Hi, I’m Ahmed M Bader El-Din 
-    * I'm Android Developer.
+    * I'm Team Leader & Android Developer.
 - 👀 I’m interested in Programing Languages 
 - 🌱 I’m currently learning KMM (Kotlin Multiplatform)
 - 📫 How to reach me.
     * Email : ahmedmbadereldin@gmail.com
     * Mobile/Whatsapp : +972592656129
-- 🔭 I’m currently working in D-Net Company at Saudi Arabia 
+- 🔭 I’m currently working in D-Net Company at Saudi Arabia as a Android Developer 
+- 🔭 I’m currently working in CyberX Company at Saudi Arabia as a Team Leader 
 - 💬 Ask me about Developing Mobile Applications (Android -> Kotlin or Java, Flutter -> Dart)
